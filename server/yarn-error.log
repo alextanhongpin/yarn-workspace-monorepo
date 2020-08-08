@@ -1,0 +1,31 @@
+Arguments: 
+  /Users/alextanhongpin/.nvm/versions/node/v14.5.0/bin/node /Users/alextanhongpin/.yarn/bin/yarn.js init -y
+
+PATH: 
+  /Users/alextanhongpin/Library/Python/3.8/bin:/usr/local/opt/libpq/bin:/usr/local/sbin:/usr/local/opt/curl/bin:/opt/spark/bin:/usr/local/bin/python3/bin:/usr/local/opt/curl/bin:/Users/alextanhongpin/.rbenv/shims:/usr/local/opt/ruby/bin:/usr/local/opt/libxml2/bin:/usr/local/opt/expat/bin:/usr/local/opt/qt/bin:/usr/local/opt/llvm@5/bin:/Users/alextanhongpin/.nexustools:/Users/alextanhongpin/.yarn/bin:/Users/alextanhongpin/.nvm/versions/node/v14.5.0/bin:/Users/alextanhongpin/.cargo/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/usr/local/MacGPG2/bin:/usr/local/share/dotnet:/opt/X11/bin:~/.dotnet/tools:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/alextanhongpin/Library/Python/3.8/bin:/usr/local/opt/libpq/bin:/usr/local/sbin:/usr/local/opt/curl/bin:/opt/spark/bin:/usr/local/bin/python3/bin:/Users/alextanhongpin/.rbenv/shims:/usr/local/opt/ruby/bin:/usr/local/opt/libxml2/bin:/usr/local/opt/expat/bin:/usr/local/opt/qt/bin:/usr/local/opt/llvm@5/bin:/Users/alextanhongpin/.nexustools:/Users/alextanhongpin/.yarn/bin:/Users/alextanhongpin/.nvm/versions/node/v14.5.0/bin:/Users/alextanhongpin/.cargo/bin:/usr/local/opt/fzf/bin:/Users/alextanhongpin/.local/bin:/Users/alextanhongpin/Documents/golang/bin:/path/to/elixir/bin:/usr/local/Cellar/nim/0.19.2/bin:/Users/alextanhongpin/.pub-cache/bin:/Users/alextanhongpin/flutter/bin:/Users/alextanhongpin/Library/Android/sdk/emulator:/Users/alextanhongpin/Library/Android/sdk/tools:/Users/alextanhongpin/Library/Android/sdk/tools/bin:/Users/alextanhongpin/Library/Android/sdk/platform-tools:/Users/alextanhongpin/.local/bin:/Users/alextanhongpin/Documents/golang/bin:/path/to/elixir/bin:/usr/local/Cellar/nim/0.19.2/bin:/Users/alextanhongpin/.pub-cache/bin:/Users/alextanhongpin/flutter/bin:/Users/alextanhongpin/Library/Android/sdk/emulator:/Users/alextanhongpin/Library/Android/sdk/tools:/Users/alextanhongpin/Library/Android/sdk/tools/bin:/Users/alextanhongpin/Library/Android/sdk/platform-tools
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  14.5.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  SyntaxError: /Users/alextanhongpin/Documents/js/monorepo/package.json: Unexpected string in JSON at position 88
+      at JSON.parse (<anonymous>)
+      at /Users/alextanhongpin/.yarn/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/Users/alextanhongpin/.yarn/lib/cli.js:310:30)
+      at /Users/alextanhongpin/.yarn/lib/cli.js:321:13
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
